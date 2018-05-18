@@ -1,0 +1,23 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "Get the current weather in input city",
+  "main": "index.js",
+  "scripts": {
+    "test": "weather"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jung205/Node.js-Weather-App.git"
+  },
+  "author": "Peter Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jung205/Node.js-Weather-App/issues"
+  },
+  "homepage": "https://github.com/jung205/Node.js-Weather-App#readme",
+  "dependencies": {
+    "request": "^2.86.0",
+    "yargs": "^11.0.0"
+  }
+}
